@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package boletin24;
+package boletin.pkg24;
 
 /**
  *
- * @author Pablo
+ * @author slagogonzalez
  */
 public class Boletin24 {
 
